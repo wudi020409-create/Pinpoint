@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "Pinpoint",
+  "version": "4.1",
+  "description": "指哪改哪 — 在任意网页上标注 UI 问题，生成 AI 可理解的修改指令。",
+  "permissions": ["activeTab", "scripting"],
+  "action": { "default_popup": "popup.html" }
+}
